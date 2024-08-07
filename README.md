@@ -10,43 +10,59 @@
 
 ## 大灰狼源合集
 
-**自动更新时间** 2023-12-31 18:59:19 CST+0800
-
-#### 🚩 最新阅读书源修复-每隔3天自动更新一次（读不舍手-源阅读+花火阅读通用）
-
+**自动更新时间** 2024-08-04 18:33:38 CST+0800
+#### 🚩 最新阅读书源修复-每隔3天自动更新一次（安卓阅读3.0+读不舍手+千阅+源阅读+花火阅读通用）
 #### 🚩 获取后的书源会自动效验
 
 <!-- 更新位置开始 -->
 | 阅读源总数 | 有效书源数 | 无效书源数 | 重复书源数 |
 |------------|------------|------------|--------------|
-| <span style="color:green;">4824</span> | <span style="color:blue;">3237</span> | <span style="color:red;">1587</span> | <span style="color:orange;">1096</span> |
+| <span style="color:green;">12433</span> | <span style="color:blue;">7372</span> | <span style="color:red;">5061</span> | <span style="color:orange;">3038</span> |
 <!-- 更新位置结束 -->
 #### 🚩 效验书源链接
 ```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/good.json
+http://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/good.json
 ```
-- 未效验书源链接
+
+#### 🚩 规则净化
 ```
-http://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/book.json
+https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/jinghua.json
+```
+#### 🚩 TTS-在线语音包生成[点我](http://tts.228088.xyz:3008)
+详见[文档](https://github.com/shidahuilang/shuyuan/blob/shuyuan/doc.md)
+#### 🚩 TTS-70种语音包
+```
+https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/tts.json
 ```
 
 # 一程书源合集
 
 #### 🗞️ 书源书源合集
-```
-https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=sy.json
-```
 #### 🗂️ 订阅源合集链接
 ```
-https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=dy.json
+https://www.gitlink.org.cn/yi-c/yd
 ```
--------------
-#### 🚩 规则净化
-```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/jinghua.json
-```
-#### 🚩 TTS-70种语音包
-```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/tts.json
-```
-- 语音包生成[点我](https://tts.dalang.eu.org/)
+# 「阅读」APP 精品书源
+>> 书源地址：大家可以定期导入一次书源，导入时 APP 会自动去重复的~
+
+书源分享地址： https://yuedu.xiu2.xyz
+
+网络导入地址： 以下 CDN 分流地址，任选一个
+
+https://bitbucket.org/xiu2/yuedu/raw/master/shuyuan ( 网页打开乱码正常，不影响 APP 导入
+
+https://raw.ixnic.net/XIU2/Yuedu/master/shuyuan
+
+https://raw.nuaa.cf/XIU2/Yuedu/master/shuyuan
+
+https://raw.yzuu.cf/XIU2/Yuedu/master/shuyuan
+
+https://raw.kkgithub.com/XIU2/Yuedu/master/shuyuan
+
+https://jsd.onmicrosoft.cn/gh/XIU2/Yuedu/master/shuyuan
+
+https://github.moeyy.xyz/.../XIU2/Yuedu/master/shuyuan
+
+https://ghproxy.cc/.../XIU2/Yuedu/master/shuyuan
+
+https://mirror.ghproxy.com/.../XIU2/Yuedu/master/shuyuan
